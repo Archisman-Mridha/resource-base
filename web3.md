@@ -5,6 +5,7 @@
 - Ethereum [whitepaper](https://ethereum.org/whitepaper#ethereum-whitepaper) and [yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Ethereum roadmap](https://ethereum.org/roadmap)
 - [Architecture of an Ethereum node](https://ethereum.org/developers/docs/nodes-and-clients/node-architecture)
+- [Zero Knowledge book by RareSkills](https://www.rareskills.io/zk-book)
 
 ## Video Content
 
@@ -22,3 +23,4 @@
 ## Others
 
 - [Ethereum Protocol Fellowship study group (EPFsg)](https://epf.wiki/#/eps/intro)
+- Future proposals for Ethereum - https://ethereum-magicians.org and https://ethresear.ch
