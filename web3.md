@@ -13,6 +13,7 @@
 - [Blockchain architecture design](https://www.youtube.com/playlist?list=PLbRMhDVUMngfxxyVLh2t2gKDUfsOdGn56) course by NPTEL
 - [How does BitTorrent work ?](https://www.youtube.com/watch?v=xH00ikD1oDo)
 - [ZK whiteboard sessions](https://zkhack.dev/whiteboard/)
+- [Kademlia Tables](https://youtu.be/_kCHOpINA5g) (an implementation of the Distributed Hash Tables Protocol)
 
 ## Twitter and LinkedIN posts
 
