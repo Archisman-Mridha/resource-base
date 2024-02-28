@@ -7,6 +7,8 @@
 - [Architecture of an Ethereum node](https://ethereum.org/developers/docs/nodes-and-clients/node-architecture)
 - [Zero Knowledge book by RareSkills](https://www.rareskills.io/zk-book)
 - [RISCZero's Notion database on Zero Knowledge Proofs](https://risczero.notion.site/5a335a1d29b44cb48c44b36ae66f366f?v=95cda72e39d3403fbfb59884afb0045d)
+- [Ethereum wire protocol](https://github.com/ethereum/devp2p/blob/master/caps/eth.md)
+- [Recursive Length Prefix (RLP) serialization](https://ethereum.org/developers/docs/data-structures-and-encoding/rlp)
 
 ## Video Content
 
