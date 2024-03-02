@@ -9,6 +9,8 @@
 - [RISCZero's Notion database on Zero Knowledge Proofs](https://risczero.notion.site/5a335a1d29b44cb48c44b36ae66f366f?v=95cda72e39d3403fbfb59884afb0045d)
 - [RLPx transport protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) | [Recursive Length Prefix (RLP) serialization](https://ethereum.org/developers/docs/data-structures-and-encoding/rlp)
 - [Ethereum wire protocol](https://github.com/ethereum/devp2p/blob/master/caps/eth.md)
+- Sidechains
+    - [Ethereum docs](https://ethereum.org/en/developers/docs/scaling/sidechains/)
 
 ## Video Content
 
