@@ -4,13 +4,10 @@
 
 - Ethereum [whitepaper](https://ethereum.org/whitepaper#ethereum-whitepaper) and [yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Ethereum roadmap](https://ethereum.org/roadmap)
-- [Architecture of an Ethereum node](https://ethereum.org/developers/docs/nodes-and-clients/node-architecture)
 - [Zero Knowledge book by RareSkills](https://www.rareskills.io/zk-book)
 - [RISCZero's Notion database on Zero Knowledge Proofs](https://risczero.notion.site/5a335a1d29b44cb48c44b36ae66f366f?v=95cda72e39d3403fbfb59884afb0045d)
-- [RLPx transport protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) | [Recursive Length Prefix (RLP) serialization](https://ethereum.org/developers/docs/data-structures-and-encoding/rlp)
-- [Ethereum wire protocol](https://github.com/ethereum/devp2p/blob/master/caps/eth.md)
-- Sidechains
-    - [Ethereum docs](https://ethereum.org/en/developers/docs/scaling/sidechains/)
+- [devp2p](https://github.com/ethereum/devp2p) - spec for Ethereum's p2p networking protocol
+- [Ethereum docs](https://ethereum.org/en/developers/docs/)
 
 ## Video Content
 
