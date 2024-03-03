@@ -8,6 +8,7 @@
 - [RISCZero's Notion database on Zero Knowledge Proofs](https://risczero.notion.site/5a335a1d29b44cb48c44b36ae66f366f?v=95cda72e39d3403fbfb59884afb0045d)
 - [devp2p](https://github.com/ethereum/devp2p) - spec for Ethereum's p2p networking protocol
 - [Ethereum docs](https://ethereum.org/en/developers/docs/)
+- [What is account nonce?](https://medium.com/coinmonks/the-account-nonce-in-ethereum-explained-c087bd4a3c29)
 
 ## Video Content
 
