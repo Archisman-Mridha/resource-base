@@ -9,6 +9,7 @@
 - [devp2p](https://github.com/ethereum/devp2p) - spec for Ethereum's p2p networking protocol
 - [Ethereum docs](https://ethereum.org/en/developers/docs/)
 - [What is account nonce?](https://medium.com/coinmonks/the-account-nonce-in-ethereum-explained-c087bd4a3c29)
+- [History of Ethereum forks](https://ethereum.org/en/history/)
 
 ## Video Content
 
