@@ -11,6 +11,7 @@
 - [What is account nonce?](https://medium.com/coinmonks/the-account-nonce-in-ethereum-explained-c087bd4a3c29)
 - [History of Ethereum forks](https://ethereum.org/en/history/)
 - [selfdestruct function in Solidity](https://www.alchemy.com/overviews/selfdestruct-solidity)
+- Solidity storage layout and slots - https://medium.com/@ozorawachie/solidity-storage-layout-and-slots-a-comprehensive-guide-2cee71817ed8 | https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html
 
 ## Video Content
 
