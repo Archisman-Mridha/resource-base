@@ -10,6 +10,7 @@
 - [Ethereum docs](https://ethereum.org/en/developers/docs/)
 - [What is account nonce?](https://medium.com/coinmonks/the-account-nonce-in-ethereum-explained-c087bd4a3c29)
 - [History of Ethereum forks](https://ethereum.org/en/history/)
+- [selfdestruct function in Solidity](https://www.alchemy.com/overviews/selfdestruct-solidity)
 
 ## Video Content
 
