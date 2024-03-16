@@ -13,6 +13,7 @@
 - [selfdestruct function in Solidity](https://www.alchemy.com/overviews/selfdestruct-solidity)
 - Solidity storage layout and slots - https://medium.com/@ozorawachie/solidity-storage-layout-and-slots-a-comprehensive-guide-2cee71817ed8 | https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html
 - Dos attack on the Ethereum network in 2016 - https://www.coindesk.com/markets/2016/10/06/so-ethereums-blockchain-is-still-under-attack/ | [Spurious dragon hardfork](https://blog.ethereum.org/2016/11/18/hard-fork-no-4-spurious-dragon) (the cure) where related `EIPs` are mentioned.
+- [Diving into Ethereum's world state](https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed)
 
 ## Video Content
 
