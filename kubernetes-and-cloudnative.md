@@ -6,3 +6,4 @@
 - [How to capture network packets at pod level using KSniff](https://kubesandclouds.com/2021-01-20-ksniff/)
 - [Isovalent Labs](https://isovalent.com/resource-library/labs/)
 - [SPIFFE and SPIRE explained](https://www.uber.com/en-IN/blog/our-journey-adopting-spiffe-spire/) by `Uber Engineering Blog`
+- [Achors, Aliases and Extension Fields in Docker-compose](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd)
