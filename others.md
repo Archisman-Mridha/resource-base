@@ -1,2 +1,3 @@
 - [TypeState Pattern in Rust](https://cliffle.com/blog/rust-typestate/)
+- [Towards impeccable Rust](https://youtu.be/qfknfCsICUM)
 - [Raft Consensus Algorithm research paper](https://raft.github.io/raft.pdf)
