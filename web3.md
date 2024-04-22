@@ -25,6 +25,7 @@
 - [Kademlia Tables](https://youtu.be/_kCHOpINA5g) (an implementation of the Distributed Hash Tables Protocol)
 - [Future of Ethereum](https://www.youtube.com/watch?v=NS0P1eiW7NE&pp=ygUKZWRjb24gMjAyMw%3D%3D) by Vitalik Buterin in EDCON 2023
 - [Introduction to Verkle Tries](https://youtu.be/Q7rStTKwuYs) in DevCon Bogota 2022
+- [Overview of Coda protocol](https://youtu.be/eWVGATxEB6M)
 
 ## Twitter and LinkedIN posts
 
